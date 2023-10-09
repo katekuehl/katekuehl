@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@katekuehl](https://medium.com/@katekuehl)
 
-- 💬 Ask me about **flutter, vue, and python**
+- 💬 Ask me about **Flutter, Vue, and Python**
 
 - 🌱 I’m currently learning **Go**
 
